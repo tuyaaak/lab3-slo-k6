@@ -122,7 +122,17 @@ Availability SLO = 90%
 
 `/pay` endpoint-ийн 44 алдаа нь серверийн кодод зориуд тохируулсан санамсаргүй алдаанаас үүдэлтэй.
 
-Нотолгоо: `results/pass.txt`, `screenshots/pass.png`
+Нотолгоо: 
+
+PASS туршилтын үр дүнг Terminal-ийн текст гаралт болон хоёр screenshot-оор хадгалсан.
+
+- [PASS туршилтын бүтэн гаралт](results/pass.txt)
+- [PASS screenshot 1](screenshots/pass_1.png)
+- [PASS screenshot 2](screenshots/pass_2.png)
+
+![PASS туршилтын эхний үр дүн](screenshots/pass_1.png)
+
+![PASS туршилтын үргэлжлэл](screenshots/pass_2.png)
 
 ## 5. Mini Chaos туршилт
 
